@@ -56,6 +56,7 @@ than female
 customers(16%).
 
 **Recommendations**
+
 **Tailored Benefits**: Customize the new credit card's perks 
 to match spending patterns. Offer increased cashback or 
 rewards for categories like bills, electronics, and 
